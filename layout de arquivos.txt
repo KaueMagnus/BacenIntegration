@@ -1,0 +1,21 @@
+Bacen determinou que agora os bancos terão a necessidade de replicar os dados entre si.
+
+Bacen possui informações comuns como:
+Codigo Geral, Nome Pessoa, Sexo, Renda Mínima e Restrição.
+
+
+Porém em 2024, Bacen determinou que: 
+Enviara um arquivo para os bancos com as informações citadas acima.
+
+bacen-cadastros.csv
+codigoGeral;nomePessoa;sexo;rendaMinima;restricao
+
+
+1;Kaue Magnus;M;5000.00;T
+2;Joana Silveira;F;3200.50;F
+
+
+
+
+
+bacen-movimentacoes.txt

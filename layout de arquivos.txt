@@ -7,7 +7,10 @@ Codigo Geral, Nome Pessoa, Sexo, Renda Mínima e Restrição.
 Porém em 2024, Bacen determinou que: 
 Enviara um arquivo para os bancos com as informações citadas acima.
 
-bacen-cadastros.csv
+-----
+
+bacen-cadastros.csv (layout csv é com um delimitador)
+
 codigoGeral;nomePessoa;sexo;rendaMinima;restricao
 
 
@@ -16,6 +19,14 @@ codigoGeral;nomePessoa;sexo;rendaMinima;restricao
 
 
 
+bacen-movimentacoes.txt (layout posicional)
+
+ID (6 caracteres)
+DESCRICAO TRANSACAO (30 caracteres)
+VALOR TRANSACAO (00010000 = 100 reais //8 DIGITOS)
+DATA (AAAAMMDD)
 
 
-bacen-movimentacoes.txt
+000001SAQUE NA AGENCIA               0001000020230625
+000002SAQUE NO CAIXA AUTOMATICO      0012752320231118
+

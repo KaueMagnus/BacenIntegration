@@ -30,6 +30,10 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou env
 
 Kaue Marques Magnus - [@kauemagnus](https://www.linkedin.com/in/kauemagnus/)
 
+<p align="center">
+  <img src="https://github.com/KaueMagnus/BacenIntegration/blob/main/gif/BacenIntegration.gif" alt="Demonstração do Programa">
+</p>  
+
 ---
 
 # 🇺🇸 Bacen Integration Project

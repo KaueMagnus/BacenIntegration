@@ -5,7 +5,7 @@ Codigo Geral, Nome Pessoa, Sexo, Renda Mínima e Restrição.
 
 
 Porém em 2024, Bacen determinou que: 
-Enviara um arquivo para os bancos com as informações citadas acima.
+Enviará um arquivo para os bancos com as informações citadas acima.
 
 -----
 
